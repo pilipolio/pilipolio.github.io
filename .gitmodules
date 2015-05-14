@@ -1,3 +1,3 @@
-[submodule "201407_RecAtBbm"]
-path = 201407_RecAtBbm
-url = git@github.com:pilipolio/201407_RecAtBbbm.git
+[submodule "201407_RecAtBbbm"]
+	path = 201407_RecAtBbbm
+	url = https://github.com/pilipolio/201407_RecAtBbbm.git
