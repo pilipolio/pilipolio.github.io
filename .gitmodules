@@ -1,3 +1,9 @@
 [submodule "201407_RecAtBbbm"]
 	path = 201407_RecAtBbbm
 	url = https://github.com/pilipolio/201407_RecAtBbbm.git
+[submodule "geobbm"]
+	path = geobbm
+	url = git@github.com:pilipolio/geobbm.git
+[submodule "We7DataVizTalk"]
+	path = We7DataVizTalk
+	url = git@github.com:pilipolio/We7DataVizTalk.git
