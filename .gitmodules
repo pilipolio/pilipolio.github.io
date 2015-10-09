@@ -9,4 +9,4 @@
 	url = https://github.com/pilipolio/We7DataVizTalk.git
 [submodule "201510_Lessons_AB_Tests"]
 	path = 201510_Lessons_AB_Tests
-	url = git@github.com:pilipolio/201510_Lessons_AB_Tests.git
+	url = https://github.com/pilipolio/201510_Lessons_AB_Tests.git
