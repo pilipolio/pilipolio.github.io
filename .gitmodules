@@ -10,3 +10,6 @@
 [submodule "201510_Lessons_AB_Tests"]
 	path = 201510_Lessons_AB_Tests
 	url = https://github.com/pilipolio/201510_Lessons_AB_Tests.git
+[submodule "recs"]
+	path = recs
+	url = git@github.com:pilipolio/recs.git
